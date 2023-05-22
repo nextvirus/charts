@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  easy-devops-chart:
+  - apiVersion: v2
+    appVersion: master
+    created: "2023-05-22T17:53:52.6213224+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 9ad017b6f108353adca306d1fd19874d31944a9e5b64b202f43c00e67909423c
+    name: easy-devops-chart
+    type: application
+    urls:
+    - https://gitee.com/next123/easy-devops-chart/easy-devops-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-05-22T17:53:52.6212303+08:00"
